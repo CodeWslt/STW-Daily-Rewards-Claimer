@@ -1,7 +1,7 @@
 # STW-Daily-Rewards-Claimer
 <br>
 
-A Simple Program That Uses Your Account Auth ID To Claim STW Daily Rewards Without Launching Fortnite!
+A Simple Program That Uses Your Account Auth ID To Claim STW Daily Rewards Without Launching Fortnite! <br />
 Everything Was Codded In C# [.NET 5](https://www.galaxyswapperv2.com/Redirects/.NET5-Installer.html) <br />
 
 Credits For Everything Used In This Application Below:
